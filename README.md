@@ -1,18 +1,17 @@
 ![logo](https://github.com/Dipanshu-Kumar-Tiwari/Dipanshu-Kumar-Tiwari/blob/main/Screenshot%202025-09-30%20204442.png)
+
 <h1 align="center">Hi 👋, I'm Dipanshu Kumar Tiwari</h1>
 <h3 align="center">🚀 A passionate Frontend Developer building clean, scalable UIs using React.js, Tailwind CSS & JavaScript</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dipanshu-kumar-tiwari&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshu-kumar-tiwari" /> </p>
 
-- 🔭 I’m currently Studying Computer science Engineering.
+- 🔭 I’m currently Studying Computer science Engineering. 
 
 - 🌱 I’m currently learning: **React, Mogo dB**
 
 - 👯 I’m looking to collaborate on: [Planets-Fact-Side](https://planets-fact-side.netlify.app)
 
-- 🤝 I’m looking for help with
+- 🤝 I’m looking for help with.
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Dipanshu-Kumar-Tiwari](https://github.com/Dipanshu-Kumar-Tiwari)
 
@@ -26,9 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dipanshu-kr-tiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipanshu-kr-tiwari/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dipanshu-kr-tiwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dipanshu-kr-tiwar" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithdipanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithdipanshu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codewithdipanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codewithdipanshu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@codewithdipanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@codewithdipanshu" height="30" width="40" /></a>
 <a href="https://discord.gg/Dipanshu Tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dipanshu Tiwari" height="30" width="40" /></a>
 </p>
 
@@ -40,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipanshu-kumar-tiwari&show_icons=true&locale=en" alt="dipanshu-kumar-tiwari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipanshu-kumar-tiwari&" alt="dipanshu-kumar-tiwari" /></p>
+
+
