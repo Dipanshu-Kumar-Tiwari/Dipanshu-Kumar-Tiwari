@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **dipanshutiwari74210@gmail.com**
 
-- 📄 Know about my experiences: [https://app.netlify.com/projects/resume-a1/overview](https://app.netlify.com/projects/resume-a1/overview)
+- 📄 Know about my experiences: [https://resume-dipanshu.netlify.app/](https://resume-dipanshu.netlify.app/)
 
 - ⚡ Fun fact: **I think i am funny😅**
 
